@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Karan S Bisht</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate ITman from Nainital📍 </h3>
 
 <img align="center" alt="coding" width="300" height="200" src="https://cdn.dribbble.com/users/458522/screenshots/13745631/media/486cadfc6f12501e11b2809be9b18c80.jpg?compress=1&resize=1200x900">
 
