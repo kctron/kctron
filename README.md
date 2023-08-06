@@ -2,6 +2,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Karan S Bisht</h1>
+
+<img align="center" alt="coding" width="300" height="200" src="=1&resize=1200x900">
+
+
 <h3 align="center">A passionate ITman from Nainital📍 </h3>
 
 <img align="center" alt="coding" width="300" height="200" src="https://cdn.dribbble.com/users/458522/screenshots/13745631/media/486cadfc6f12501e11b2809be9b18c80.jpg?compress=1&resize=1200x900">
@@ -14,18 +18,18 @@
 
 - 🔭 I’m exploring **Development**
 
-- 🌱 I’m currently learning **Web Dev**
+- 🌱 I’m currently learning **IT/Dev**
 
-- 💬 Ask me about **anything i'll definately help you out**
+- 💬 Ask me about **anything I'll definately help you out**
 
-- 📫 How to reach me **work4krn@gmail.com**
+- 📫 How to reach me **2krn.ofc@gmail.com**
 
-- ⚡ Fun fact **I think i am so funny**
+- ⚡ Fun fact **I think I am so funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karansb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karansb1" height="30" width="40" /></a>
-<a href="https://instagram.com/alonewolfdot1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alonewolfdot1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_krn_bst_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Karan SinghA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
